@@ -6,9 +6,7 @@
 
 ## What is Tiny Tapeout? I'm using this for demo purposes only
 
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
-
-To learn more and get started, visit https://tinytapeout.com.
+Tiny tapeout is a free access site to use in github
 
 ## Wokwi Projects
 
